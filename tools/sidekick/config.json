@@ -1,7 +1,7 @@
 {
   "project": "Milo",
   "host": "milo.adobe.com",
-  "trustedHosts": ["milo.adobe.com", "main--milo--adobecom.hlx.page"],
+  "trustedHosts": ["milo.adobe.com", "main--milo--adobecom.hlx.page", "main--milo--adobecom.hlx.live"],
   "libraries": [
     {
       "text": "Blocks",
